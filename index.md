@@ -1,6 +1,6 @@
 ## Yuming Du's Homepage
 
-First year PhD student at ENPC(https://imagine-lab.enpc.fr/). 
+First year PhD student at [ENPC](https://imagine-lab.enpc.fr/). 
 
 
 ### Interests
