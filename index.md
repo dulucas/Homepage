@@ -15,7 +15,6 @@ Computer vision; Deep Learning; Cooking
 
 ### Experience
 - Research Intern at Megvii Detection Team (~1.5 year)
-···2D Human Keypoint Estimation
 
 ### Contact
 yuming.du@enpc.fr
