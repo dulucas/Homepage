@@ -1,6 +1,6 @@
 ## DU Yuming's Homepage
 
-First year PhD student at [ENPC](https://imagine-lab.enpc.fr/). 
+First year PhD student at [IMAGINE team](https://imagine-lab.enpc.fr/) [ENPC](https://www.ecoledesponts.fr/). 
 
 ------
 
