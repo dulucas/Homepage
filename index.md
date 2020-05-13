@@ -9,13 +9,13 @@ Computer vision; Deep Learning; Cooking
 ### Publications
 - Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields 
 
-**CVPR 2020**
-[link](https://arxiv.org/abs/2002.12730)
+> **CVPR 2020**
+> [paper link](https://arxiv.org/abs/2002.12730)
 
 - Rethinking on Multi-Stage Networks for Human Pose Estimation 
 
-**Champion of COCO Keypoints Challenge 2019** 
-[link](https://arxiv.org/abs/1901.00148)
+> **Champion of COCO Keypoints Challenge 2019** 
+> [paper link](https://arxiv.org/abs/1901.00148)
 
 ### Experience
 - Research Intern at Megvii Detection Team (~1.5 year)
