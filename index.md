@@ -7,18 +7,18 @@ First year PhD student at [ENPC](https://imagine-lab.enpc.fr/).
 Computer vision; Deep Learning; Cooking
 
 ### Publications
-- Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields 
+- _Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields_
 
 > [paper link](https://arxiv.org/abs/2002.12730)
 > **CVPR 2020**
 
-- Rethinking on Multi-Stage Networks for Human Pose Estimation 
+- _Rethinking on Multi-Stage Networks for Human Pose Estimation_
 
 > [paper link](https://arxiv.org/abs/1901.00148)
 > **Champion of COCO Keypoints Challenge 2019** 
 
 ### Experience
-- Research Intern at Megvii Detection Team (~1.5 year)
+- Research Intern at Megvii Detection Team (~1.5 years)
 
 ### Contact
 yuming.du@enpc.fr
