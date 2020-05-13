@@ -1,4 +1,4 @@
-## Yuming Du's Homepage
+## DU Yuming's Homepage
 
 First year PhD student at [ENPC](https://imagine-lab.enpc.fr/). 
 
