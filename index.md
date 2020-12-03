@@ -30,6 +30,6 @@ Cooking
 ------
 
 ### Contact
-- Email:yuming.du@enpc.fr
+- Email : yuming.du@enpc.fr
 - [Google Scholar](https://scholar.google.com/citations?user=mLytdOoAAAAJ&hl=en)
 - [Github Page](https://github.com/dulucas)
