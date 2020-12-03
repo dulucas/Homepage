@@ -2,8 +2,6 @@
 
 Second year PhD student at [IMAGINE team](https://imagine-lab.enpc.fr/) [ENPC](https://www.ecoledesponts.fr/). Supervised by Prof.[Vincent Lepetit](http://imagine.enpc.fr/~lepetitv/)
 
-- [google-scholar](https://scholar.google.com/citations?user=mLytdOoAAAAJ&hl=en)
-- [github-page](https://github.com/dulucas)
 ------
 
 ### Interests
@@ -33,3 +31,5 @@ Cooking
 
 ### Contact
 yuming.du@enpc.fr
+- [google-scholar](https://scholar.google.com/citations?user=mLytdOoAAAAJ&hl=en)
+- [github-page](https://github.com/dulucas)
