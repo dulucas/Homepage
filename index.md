@@ -7,7 +7,9 @@ Second year PhD student at [IMAGINE team](https://imagine-lab.enpc.fr/) [ENPC](h
 ------
 
 ### Interests
-Computer vision; Deep Learning; Cooking
+Computer vision; Deep Learning; Object Detection and Segmentation; Depth Estimation
+
+Cooking
 
 ------
 
