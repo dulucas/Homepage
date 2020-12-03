@@ -2,8 +2,8 @@
 
 Second year PhD student at [IMAGINE team](https://imagine-lab.enpc.fr/) [ENPC](https://www.ecoledesponts.fr/). Supervised by Prof.[Vincent Lepetit](http://imagine.enpc.fr/~lepetitv/)
 
-- My [Google Scholar](https://scholar.google.com/citations?user=mLytdOoAAAAJ&hl=en)
-- My [Github](https://github.com/dulucas)
+- [Google Scholar](https://scholar.google.com/citations?user=mLytdOoAAAAJ&hl=en)
+- [Github Page](https://github.com/dulucas)
 ------
 
 ### Interests
