@@ -1,13 +1,8 @@
 ## DU Yuming's Homepage
 
-Second year PhD student at [IMAGINE team](https://imagine-lab.enpc.fr/) [ENPC](https://www.ecoledesponts.fr/). Supervised by Prof.[Vincent Lepetit](http://imagine.enpc.fr/~lepetitv/)
+Second year PhD student.
 
-------
-
-### Interests
-Computer vision; Deep Learning; Object Detection and Segmentation; Depth Estimation
-
-Cooking
+Supervised by Prof.[Vincent Lepetit](http://imagine.enpc.fr/~lepetitv/)
 
 ------
 
@@ -21,11 +16,6 @@ Cooking
 
    [paper](https://arxiv.org/abs/1901.00148) [code](https://github.com/fenglinglwb/MSPN)
    **[Champion of COCO Keypoints Challenge 2018](http://cocodataset.org/#keypoints-leaderboard)** 
-
-------
-
-### Experience
-- Research Intern at Megvii Detection Team (~1.5 years)
 
 ------
 
