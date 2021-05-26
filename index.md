@@ -7,6 +7,10 @@ Supervised by Prof.[Vincent Lepetit](http://imagine.enpc.fr/~lepetitv/)
 ------
 
 ### Publications
+- _PoseContrast: Class-Agnostic Object Viewpoint Estimation in the Wild with Pose-Aware Contrastive Learning_
+
+   [paper](https://arxiv.org/abs/2105.05643) [project page](http://imagine.enpc.fr/~xiaoy/PoseContrast/)
+   
 - _Learning to Better Segment Objects from Unseen Classes with Unlabeled Videos_
 
    [paper](https://arxiv.org/abs/2104.12276) [project page](https://dulucas.github.io/Homepage/gbopt/)
